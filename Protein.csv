@@ -1,0 +1,13 @@
+﻿id,name
+protein:G3BP1,G3BP1 protein
+protein:GSK3B,GSK-3β
+protein:CTNNB1,β-catenin
+protein:ZIC2,Zic2 protein
+protein:AXIN2,Axin2 protein
+protein:CK1,CK1 protein
+protein:ZMIZ2,ZMIZ2 protein
+protein:USP7,USP7 protein
+protein:AXIN1,Axin protein
+protein:RUNX1,RUNX1 protein
+protein:KIT,KIT protein
+protein_complex:CTNNB1_DESTRUCTION_COMPLEX,β-catenin destruction complex

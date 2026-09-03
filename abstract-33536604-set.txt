@@ -1,0 +1,231 @@
+1. Acta Pharmacol Sin. 2021 Nov;42(11):1900-1912. doi: 10.1038/s41401-020-00598-w. 
+Epub 2021 Feb 3.
+
+G3BP1 promotes human breast cancer cell proliferation through coordinating with 
+GSK-3β and stabilizing β-catenin.
+
+Zhang CH(1), Liu H(1), Zhao WL(1), Zhao WX(1), Zhou HM(1), Shao RG(2).
+
+Author information:
+(1)Key Laboratory of Antibiotic Bioengineering, Ministry of Health, Laboratory 
+of Oncology, Institute of Medicinal Biotechnology, Peking Union Medical College 
+and Chinese Academy of Medical Sciences, Beijing, 100050, China.
+(2)Key Laboratory of Antibiotic Bioengineering, Ministry of Health, Laboratory 
+of Oncology, Institute of Medicinal Biotechnology, Peking Union Medical College 
+and Chinese Academy of Medical Sciences, Beijing, 100050, China. 
+shaor@imb.pumc.edu.cn.
+
+Ras-GTPase activating SH3 domain-binding protein 1 (G3BP1) is a multifunctional 
+binding protein involved in the development of a variety of human cancers. 
+However, the role of G3BP1 in breast cancer progression remains largely unknown. 
+In this study, we report that G3BP1 is upregulated and correlated with poor 
+prognosis in breast cancer. Overexpression of G3BP1 promotes breast cancer cell 
+proliferation by stimulating β-catenin signaling, which upregulates a number of 
+proliferation-related genes. We further show that G3BP1 improves the stability 
+of β-catenin by inhibiting its ubiquitin-proteasome degradation rather than 
+affecting the transcription of β-catenin. Mechanistically, elevated G3BP1 
+interacts with and inactivates GSK-3β to suppress β-catenin phosphorylation and 
+degradation. Disturbing the G3BP1-GSK-3β interaction accelerates the degradation 
+of β-catenin, impairing the proliferative capacity of breast cancer cells. Our 
+study demonstrates that the regulatory mechanism of the G3BP1/GSK-3β/β-catenin 
+axis may be a potential therapeutic target for breast cancer.
+
+© 2021. The Author(s), under exclusive licence to CPS and SIMM.
+
+DOI: 10.1038/s41401-020-00598-w
+PMCID: PMC8563869
+PMID: 33536604 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+2. Cell Death Dis. 2021 Jun 7;12(6):584. doi: 10.1038/s41419-021-03863-w.
+
+Multilevel regulation of Wnt signaling by Zic2 in colon cancer due to mutation 
+of β-catenin.
+
+Xu Z(#)(1), Zheng J(#)(1), Chen Z(1), Guo J(1), Li X(1), Wang X(1), Qu C(1), 
+Yuan L(2), Cheng C(1), Sun X(3), Yu J(4).
+
+Author information:
+(1)Department of General Surgery, First Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, 710061, Shaanxi Province, PR China.
+(2)Department of Endocrinology, First Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, 710061, Shaanxi Province, PR China.
+(3)Department of General Surgery, First Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, 710061, Shaanxi Province, PR China. sunxy@mail.xjtu.edu.cn.
+(4)Department of General Surgery, First Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, 710061, Shaanxi Province, PR China. 
+yujunhui@mail.xjtu.edu.cn.
+(#)Contributed equally
+
+Zinc-finger of the cerebellum 2 (Zic2) is widely implicated in cancers, but the 
+role of Zic2 in tumorigenesis is bilateral. A recent study indicated that Zic2 
+could render colon cancer cells more resistant to low glucose-induced apoptosis. 
+However, the functional roles of Zic2 in colon cancer and the underlying 
+molecular mechanism remain elusive. Herein, we demonstrated that Zic2 was highly 
+expressed in colon cancer tissues and correlated with poor survival. Knockdown 
+of Zic2 inhibited colon cancer cell growth, arrested the cell cycle transition 
+from G0/G1 to S phase, and suppressed tumor sphere formation in vitro; in 
+addition, silencing Zic2 retarded xenograft tumor formation in vivo. 
+Consistently, ectopic expression of Zic2 had the opposite effects. 
+Mechanistically, Zic2 executed its oncogenic role in colon cancer by enhancing 
+Wnt/β-catenin signaling. Zic2 directly binds to the promoter of Axin2 and 
+transcriptionally represses Axin2 expression and subsequently promotes the 
+accumulation and nuclear translocation of β-catenin. Meanwhile, Zic2 could 
+activate Wnt signaling by interacting with β-catenin. Intriguingly, in HCT116 
+cells with intrinsic Ser45 mutation of β-catenin, which blocks the 
+degradation-related phosphorylation of β-catenin by CK1, modified Zic2 
+expression did not affect the protein level of β-catenin. Altogether, our 
+findings uncover a novel multilevel mechanism for the oncogenic activity of Zic2 
+in colon cancer and suggest Zic2 as a potential therapeutic target for colon 
+cancer patients.
+
+DOI: 10.1038/s41419-021-03863-w
+PMCID: PMC8184991
+PMID: 34099631 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+3. Cell Death Differ. 2020 Apr;27(4):1316-1327. doi: 10.1038/s41418-019-0417-3. 
+Epub 2019 Sep 17.
+
+LINC00265 promotes colorectal tumorigenesis via ZMIZ2 and USP7-mediated 
+stabilization of β-catenin.
+
+Zhu Y(1)(2), Gu L(1)(2), Lin X(1)(2), Cui K(1)(2), Liu C(1)(2), Lu B(1)(2), Zhou 
+F(3)(4), Zhao Q(3)(4), Shen H(1)(2), Li Y(5)(6).
+
+Author information:
+(1)Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan 
+University, 430072, Wuhan, China.
+(2)Medical Research Institute, School of Medicine, Wuhan University, 430071, 
+Wuhan, China.
+(3)Department of Gastroenterology, Zhongnan Hospital of Wuhan University School 
+of Medicine, 430071, Wuhan, China.
+(4)Hubei Clinical Center and Key Laboratory for Intestinal and Colorectal 
+Diseases, 430071, Wuhan, China.
+(5)Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan 
+University, 430072, Wuhan, China. liy7@whu.edu.cn.
+(6)Medical Research Institute, School of Medicine, Wuhan University, 430071, 
+Wuhan, China. liy7@whu.edu.cn.
+
+Colorectal cancer (CRC) is the third most prevalent world cancer and oncogenic 
+β-catenin is frequently dysregulated in CRC. Long noncoding RNAs (lncRNAs) play 
+critical roles in colorectal tumorigenesis; however, the contributions of 
+lncRNAs to human CRC remain largely unknown. In this study, we report that 
+LINC00265 is upregulated and predicts poor clinical outcome in human patients 
+with CRC. Depletion of LINC00265 and ZMIZ2 distinctly attenuates colorectal 
+tumorigenesis in mice. Mechanistically, LINC00265 augments ZMIZ2 expression by 
+acting as an endogenous sponge against several miRNAs, which directly target 
+ZMIZ2 expression. Moreover, ZMIZ2 recruits the enzyme USP7, which 
+deubiquitylates and stabilizes β-catenin, thereby facilitating colorectal 
+tumorigenesis. In addition, β-catenin mediates LINC00265 and ZMIZ2 oncogenic 
+phenotypes. Taken together, the LINC00265-ZMIZ2-β-catenin signaling axis plays a 
+critical role in the colorectal tumorigenesis, which may be a potential 
+therapeutic target.
+
+DOI: 10.1038/s41418-019-0417-3
+PMCID: PMC7206056
+PMID: 31527801 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+4. Nat Commun. 2019 Sep 13;10(1):4184. doi: 10.1038/s41467-019-12143-3.
+
+USP7 inhibits Wnt/β-catenin signaling through promoting stabilization of Axin.
+
+Ji L(1), Lu B(1), Zamponi R(1)(2), Charlat O(1), Aversa R(1), Yang Z(1), 
+Sigoillot F(1), Zhu X(1), Hu T(1), Reece-Hoyes JS(1), Russ C(1), Michaud G(1), 
+Tchorz JS(3), Jiang X(1), Cong F(4).
+
+Author information:
+(1)Novartis Institutes for Biomedical Research, Novartis Pharma AG, Cambridge, 
+MA, USA.
+(2)Azienda USL-IRCCS di Reggio Emilia, Viale Risorgimento 80, 42123, Reggio 
+Emila, Italy.
+(3)Novartis Institutes for Biomedical Research, Novartis Pharma AG, Basel, 
+Switzerland.
+(4)Novartis Institutes for Biomedical Research, Novartis Pharma AG, Cambridge, 
+MA, USA. feng.cong@novartis.com.
+
+Axin is a key scaffolding protein responsible for the formation of the β-catenin 
+destruction complex. Stability of Axin protein is regulated by the 
+ubiquitin-proteasome system, and modulation of cellular concentration of Axin 
+protein has a profound effect on Wnt/β-catenin signaling. Although E3s promoting 
+Axin ubiquitination have been identified, the deubiquitinase responsible for 
+Axin deubiquitination and stabilization remains unknown. Here, we identify USP7 
+as a potent negative regulator of Wnt/β-catenin signaling through CRISPR 
+screens. Genetic ablation or pharmacological inhibition of USP7 robustly 
+increases Wnt/β-catenin signaling in multiple cellular systems. USP7 directly 
+interacts with Axin through its TRAF domain, and promotes deubiquitination and 
+stabilization of Axin. Inhibition of USP7 regulates osteoblast differentiation 
+and adipocyte differentiation through increasing Wnt/β-catenin signaling. Our 
+study reveals a critical mechanism that prevents excessive degradation of Axin 
+and identifies USP7 as a target for sensitizing cells to Wnt/β-catenin 
+signaling.
+
+DOI: 10.1038/s41467-019-12143-3
+PMCID: PMC6744515
+PMID: 31519875 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+5. J Exp Clin Cancer Res. 2019 Aug 1;38(1):334. doi: 10.1186/s13046-019-1330-9.
+
+RUNX1 promotes tumour metastasis by activating the Wnt/β-catenin signalling 
+pathway and EMT in colorectal cancer.
+
+Li Q(1), Lai Q(1), He C(1), Fang Y(1), Yan Q(1), Zhang Y(1), Wang X(1), Gu C(1), 
+Wang Y(2)(3), Ye L(1), Han L(1), Lin X(1), Chen J(1), Cai J(1), Li A(4), Liu 
+S(5).
+
+Author information:
+(1)Guangdong Provincial Key Laboratory of Gastroenterology, Department of 
+Gastroenterology, Nanfang Hospital, Southern Medical University, No. 1838, 
+Guangzhou Avenue North, Guangzhou, Guangdong, People's Republic of China.
+(2)Department of Pathology, Nanfang Hospital, Southern Medical University, 
+Guangzhou, China.
+(3)Department of Pathology, School of Basic Medical Sciences, Southern Medical 
+University, Guangzhou, China.
+(4)Guangdong Provincial Key Laboratory of Gastroenterology, Department of 
+Gastroenterology, Nanfang Hospital, Southern Medical University, No. 1838, 
+Guangzhou Avenue North, Guangzhou, Guangdong, People's Republic of China. 
+lam0725@qq.com.
+(5)Guangdong Provincial Key Laboratory of Gastroenterology, Department of 
+Gastroenterology, Nanfang Hospital, Southern Medical University, No. 1838, 
+Guangzhou Avenue North, Guangzhou, Guangdong, People's Republic of China. 
+liuside2011@163.com.
+
+BACKGROUND: Runt-related transcription factor 1 (RUNX1) plays the roles of an 
+oncogene and an anti-oncogene in epithelial tumours, and abnormally elevated 
+RUNX1 has been suggested to contribute to the carcinogenesis of colorectal 
+cancer (CRC). However, the mechanism remains unclear.
+METHODS: The expression of RUNX1 in CRC and normal tissues was detected by 
+real-time quantitative PCR and Western blotting. The effect of RUNX1 on CRC 
+migration and invasion was conducted by functional experiments in vitro and in 
+vivo. Chromatin Immunoprecipitation assay verified the direct regulation of 
+RUNX1 on the promoter of the KIT, which leads to the activation of Wnt/β-catenin 
+signaling.
+RESULTS: RUNX1 expression is upregulated in CRC tissues. Upregulated RUNX1 
+promotes cell metastasis and epithelial to mesenchymal transition (EMT) of CRC 
+both in vitro and in vivo. Furthermore, RUNX1 can activate Wnt/β-catenin 
+signalling in CRC cells by directly interacting with β-catenin and targeting the 
+promoter and enhancer regions of KIT to promote KIT transcription. These 
+observations demonstrate that RUNX1 upregulation is a common event in CRC 
+specimens and is closely correlated with cancer metastasis and that RUNX1 
+promotes EMT of CRC cells by activating Wnt/β-catenin signalling. Moreover, 
+RUNX1 is regulated by Wnt/β-catenin.
+CONCLUSION: Our findings first demonstrate that RUNX1 promotes CRC metastasis by 
+activating the Wnt/β-catenin signalling pathway and EMT.
+
+DOI: 10.1186/s13046-019-1330-9
+PMCID: PMC6670220
+PMID: 31370857 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

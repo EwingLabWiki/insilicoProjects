@@ -1,0 +1,4 @@
+﻿id,name
+disease:BREAST_CANCER,breast cancer
+disease:COLON_CANCER,colon cancer
+disease:COLORECTAL_CANCER,colorectal cancer

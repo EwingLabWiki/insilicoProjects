@@ -1,0 +1,5 @@
+﻿id,name
+tissue:BREAST_CANCER_TISSUE,breast cancer tissue
+tissue:COLON_CANCER_TISSUE,colon cancer tissue
+tissue:CRC_TISSUE,colorectal cancer tissue
+tissue:NORMAL_COLORECTAL_TISSUE,normal colorectal tissue

@@ -1,0 +1,20 @@
+﻿id,name
+process:CELL_PROLIFERATION,cell proliferation
+process:PROTEIN_DEGRADATION,protein degradation
+process:PHOSPHORYLATION,phosphorylation
+process:TUMORIGENESIS,tumorigenesis
+process:APOPTOSIS,apoptosis
+process:CELL_GROWTH,cell growth
+process:CELL_CYCLE_TRANSITION,G0/G1-to-S cell-cycle transition
+process:TUMOR_SPHERE_FORMATION,tumor sphere formation
+process:XENOGRAFT_TUMOR_FORMATION,xenograft tumor formation
+process:NUCLEAR_TRANSLOCATION,nuclear translocation
+process:UBIQUITINATION,ubiquitination
+process:DEUBIQUITINATION,deubiquitination
+process:OSTEOBLAST_DIFFERENTIATION,osteoblast differentiation
+process:ADIPOCYTE_DIFFERENTIATION,adipocyte differentiation
+process:CELL_MIGRATION,cell migration
+process:INVASION,cell invasion
+process:METASTASIS,metastasis
+process:EMT,epithelial-to-mesenchymal transition
+process:TRANSCRIPTION,transcription

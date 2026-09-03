@@ -1,0 +1,7 @@
+﻿id,name
+celltype:BREAST_CANCER_CELL,breast cancer cell
+celltype:COLON_CANCER_CELL,colon cancer cell
+celltype:HCT116,HCT116 cell
+celltype:CRC_CELL,colorectal cancer cell
+celltype:OSTEOBLAST,osteoblast
+celltype:ADIPOCYTE,adipocyte
